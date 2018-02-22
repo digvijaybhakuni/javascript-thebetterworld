@@ -26,6 +26,7 @@ export class BookShef{
             noOfPage : 54 
         }
         ];
+   
     
     constructor(){
         console.log("BookShef");
@@ -36,6 +37,10 @@ export class BookShef{
         noOfPage : 43 
     });
         
+    }
+    
+    getString() : string {
+     return "";   
     }
 }
 

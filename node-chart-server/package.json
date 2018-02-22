@@ -1,0 +1,11 @@
+{
+  "name": "node-chart-server",
+  "version": "1.0.0",
+  "description": "Chart Server API",
+  "main": "index.js",
+  "author": "digvijaybhakuni",
+  "license": "MIT",
+  "dependencies": {
+    "websocket": "^1.0.25"
+  }
+}
